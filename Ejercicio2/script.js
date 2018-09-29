@@ -112,5 +112,6 @@ class convertor{
                 }
            break;
         }
+        return aux;
     }
 }
